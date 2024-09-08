@@ -3,7 +3,6 @@ import time
 import openai
 import csv
 openai.api_key="<Put Your API-KEY HERE>"
-#openai.api_key="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"
 import os
 file1=open("/home/judgement.xlsx","r")
 #print(file1.read())
