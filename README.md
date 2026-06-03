@@ -29,6 +29,16 @@ This study investigates judgment prediction in a realistic scenario within the c
 ## Citation
 If you use our method or models, please cite [our paper](https://aclanthology.org/2024.nllp-1.6/):
 ```
+@inproceedings{nigam2024rethinking,
+  title={Rethinking legal judgement prediction in a realistic scenario in the era of large language models},
+  author={Nigam, Shubham Kumar and Deroy, Aniket and Maity, Subhankar and Bhattacharya, Arnab},
+  booktitle={Proceedings of the Natural Legal Language Processing Workshop 2024},
+  pages={61--80},
+  year={2024}
+}
+
+or
+
 @inproceedings{nigam-etal-2024-rethinking,
     title = "Rethinking Legal Judgement Prediction in a Realistic Scenario in the Era of Large Language Models",
     author = "Nigam, Shubham Kumar  and
